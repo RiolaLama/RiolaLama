@@ -8,7 +8,7 @@ Later on, I completed a bachelor’s degree in Computer Science, which helped me
 
 ## Skills
 - 👨‍💻 HTML, CSS, JavaScript, TypeScript, PHP, Python, Java
-- ⚙️ Angular, Symfony, Laravel, NodeJs, ExpressJs
+- ⚙️ Angular, React, Symfony, Laravel, NodeJs, ExpressJs, NestJs
 - 👁️ Bootstrap, Tailwind 
 - 💽 MySQL, SQL, Mongo
 + a lot more ;)
